@@ -184,6 +184,9 @@
     
 %% יהדות
     
+    זמני היום
+    https://www.myzmanim.com/search.aspx
+    
     מצלמות הכותל
     http://www.thekotel.org/kotel/kotel_cameras/
 
