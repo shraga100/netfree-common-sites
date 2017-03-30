@@ -184,6 +184,12 @@
     
 %% יהדות
     
+    הידברות
+    http://www.hidabroot.org/
+    
+    אש התורה
+    http://www.aish.co.il/
+    
     מצלמות הכותל
     http://www.thekotel.org/kotel/kotel_cameras/
 
@@ -234,6 +240,12 @@
     חיפוש הפוך
     http://441il.com/
     
+    441 Israel
+    http://441israel.com
+    
+    Truecaller
+    https://www.truecaller.com/
+      
     המדריך החרדי
     http://www.m-hakehilot.co.il/
     
@@ -275,33 +287,36 @@
    
 %% עיריות
 
-    ירושלים
-    http://www.jerusalem.muni.il/
-
-    בני ברק
-    http://www.bnei-brak.muni.il/
-
-    בית שמש
-    http://betshemesh.muni.il/
-
-    תל אביב
-    http://www.tel-aviv.gov.il
-    
-    מודיעין עילית
-    http://www.modil.org.il/
-    
-    ביתר עילית
-    http://www.betar-illit.muni.il/
-    
+    אופקים
+    http://www.ofaqim.muni.il/
+   
     אלעד
     http://www.elad.muni.il/
     
     אשדוד
     http://www.ashdod.muni.il/
     
-    אופקים
-    http://www.ofaqim.muni.il/
+    בית שמש
+    http://betshemesh.muni.il/
 
+    ביתר עילית
+    http://www.betar-illit.muni.il/
+   
+    בני ברק
+    http://www.bnei-brak.muni.il/
+
+    ירושלים
+    http://www.jerusalem.muni.il/
+   
+    מודיעין עילית
+    http://www.modil.org.il/
+      
+    קריית גת
+    http://www.qiryat-gat.muni.il/
+    
+    תל אביב
+    http://www.tel-aviv.gov.il
+    
 %% עמותות
 
     עזר מציון
